@@ -1,0 +1,11 @@
+D:\escuela\progra\elevador\bin\Debug\netcoreapp3.1\elevador.exe
+D:\escuela\progra\elevador\bin\Debug\netcoreapp3.1\elevador.deps.json
+D:\escuela\progra\elevador\bin\Debug\netcoreapp3.1\elevador.runtimeconfig.json
+D:\escuela\progra\elevador\bin\Debug\netcoreapp3.1\elevador.runtimeconfig.dev.json
+D:\escuela\progra\elevador\bin\Debug\netcoreapp3.1\elevador.dll
+D:\escuela\progra\elevador\bin\Debug\netcoreapp3.1\elevador.pdb
+D:\escuela\progra\elevador\obj\Debug\netcoreapp3.1\elevador.csprojAssemblyReference.cache
+D:\escuela\progra\elevador\obj\Debug\netcoreapp3.1\elevador.AssemblyInfoInputs.cache
+D:\escuela\progra\elevador\obj\Debug\netcoreapp3.1\elevador.AssemblyInfo.cs
+D:\escuela\progra\elevador\obj\Debug\netcoreapp3.1\elevador.dll
+D:\escuela\progra\elevador\obj\Debug\netcoreapp3.1\elevador.pdb
